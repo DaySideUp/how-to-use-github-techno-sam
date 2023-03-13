@@ -1,11 +1,12 @@
 # :wave: The Basics of GitHub 
 
 
-
+<html>
 <style>
   h1 {color:blue;}
   p {color:red;}
 </style>
+</html>
 I red this
 
 ## 🤓 Course overview and learning outcomes 
